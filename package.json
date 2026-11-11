@@ -1,0 +1,1 @@
+{"description":"AI Invoice + PayPal Pay Link — Gemini turns a plain-language work description into invoice line items, PayPal Sandbox turns the invoice into a payable link.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"paypal-ai-invoice","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
